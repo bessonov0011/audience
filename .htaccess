@@ -1,0 +1,18 @@
+ErrorDocument 403 /page19485914.html
+ErrorDocument 404 /page19485914.html
+
+DirectoryIndex page19485798.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^moneycloud$ page19486021.html [NC]
+RewriteRule ^moneycloud/$ page19486021.html [NC]
+
+RewriteRule ^team$ page19486030.html [NC]
+RewriteRule ^team/$ page19486030.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild6639-6535-4163-b335-376464303163/favicon.ico [R=302,L]
+

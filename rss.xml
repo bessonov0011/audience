@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Audience Network</title>
+		<link>http://audience.eth.link</link>
+		<description>The Audience Network team is building the most decentralized peer-to-peer network in Russia.</description>
+		<pubDate>Thu, 13 May 2021 05:02:00 GMT</pubDate>
+		<generator>Tilda Publishing</generator>
+		<item><title>Team</title><link>http://audience.eth.link/team</link><description>We are a team of engineers, developers and marketers from Siberia, united by the ideas of a decentralized Internet.</description><pubDate>Thu, 13 May 2021 05:02:00 GMT</pubDate><guid>http://audience.eth.link/team</guid><enclosure url="https://static.tildacdn.com/lib/unsplash/e18ee048-b2ab-3740-7b71-751afa9c987c/photo.jpg" type="image/jpeg" /></item>
+		<item><title>MoneyCloud</title><link>http://audience.eth.link/moneycloud</link><description>The team is developing a MoneyCloud home mining device.</description><pubDate>Thu, 13 May 2021 05:01:00 GMT</pubDate><guid>http://audience.eth.link/moneycloud</guid><enclosure url="https://static.tildacdn.com/lib/unsplash/e18ee048-b2ab-3740-7b71-751afa9c987c/photo.jpg" type="image/jpeg" /></item>
+		<item><title>Audience Network</title><link>http://audience.eth.link/</link><description>The Audience Network team is building the most decentralized peer-to-peer network in Russia.</description><pubDate>Thu, 13 May 2021 04:33:00 GMT</pubDate><guid>http://audience.eth.link/</guid></item>
+</channel></rss>
